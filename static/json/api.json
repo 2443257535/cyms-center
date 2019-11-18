@@ -1,0 +1,43 @@
+{
+    "data": [{
+        "path": "/",
+        "component": "Layout",
+        "meta": {
+        "requireAuth": true,
+        "icon": "el-icon-message"
+        },
+        "leaf": false,
+        "title": "首页",
+        "hidden": false
+    }, {
+        "path": "/reserve",
+        "component": "Layout",
+        "meta": {
+        "requireAuth": true,
+        "icon": "el-icon-message"
+        },
+        "leaf": false,
+        "title": "预定",
+        "hidden": false
+    }, {
+        "path": "/account",
+        "component": "Layout",
+        "meta": {
+        "requireAuth": true,
+        "icon": "el-icon-message"
+        },
+        "leaf": false,
+        "title": "账务中心",
+        "hidden": false
+    }, {
+        "path": "/market",
+        "component": "Layout",
+        "meta": {
+            "requireAuth": true,
+            "icon": "el-icon-message"
+        },
+        "leaf": false,
+        "title": "进阶中心",
+        "hidden": false
+    }]
+}

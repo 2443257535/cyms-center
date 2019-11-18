@@ -1,0 +1,24 @@
+{
+    "data": [{
+      "id|+1": "1", 
+      "status": "准备中", 
+      "number": "020001",
+      "place": "湖南长沙",
+      "category": "一缦酒店",
+      "numberName": "包厢",
+      "people": "3",
+      "amount": "5",
+      "money": "320.50",
+      "discount": "无折扣",
+      "rebate": "0.00",
+      "subtotal": "230.50",
+      "startDate": "2019-10-15 18:30",
+      "endDate": "2019-10-15 19:43",
+      "source": "会员",
+      "member": "131321515",
+      "salesman": "小明",
+      "linkman": "胡总",
+      "linkmanMsg": "电话",
+      "type": "现金"
+    }]
+  }
